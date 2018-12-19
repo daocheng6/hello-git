@@ -1,0 +1,16 @@
+gitbase commind
+git init 
+git status
+git log
+git config --list
+git config --global "daocheng6"
+git config --global "1970286354@qq.com"
+
+git add filename
+git commit -m "info"
+git commit -a -m "info"
+git show "single infor"
+
+git remote add shortname url
+git push shortname
+git pull shortname
