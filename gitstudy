@@ -1,4 +1,5 @@
 gitbase commind
+git --version
 git init 
 git status
 git log
@@ -11,6 +12,10 @@ git commit -m "info"
 git commit -a -m "info"
 git show "single infor"
 
+git remote -v
 git remote add shortname url
-git push shortname
-git pull shortname
+git push shortname  master
+git pull shortname  master
+
+git clone https://github/daocheng6/xxxxx
+
